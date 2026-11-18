@@ -1,0 +1,11 @@
+
+   1  cd ~/Documents/LI
+   2  git clone https://github.com/Thael09/LABINFO-03-26-27.git
+   3  cd LABINFO-03-26-27
+   4  ls
+   5  git add index.html
+   6  git commit -m "3ª tarefa concluída"
+   7  git push origin main
+   8  cd LABINFO-03-26-27
+   9  cd ~/Documents/LI/LABINFO-03-26-27
+   10  git pull origin main
