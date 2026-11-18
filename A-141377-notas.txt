@@ -1,0 +1,68 @@
+NOME: Thael da Costa Maciel
+NMEC: 141377
+
+/workspaces/LABINFO-03-26-27
+
+git add identificacao.txt
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+git push
+
+mkdir A141377
+cd A141377
+pwd
+/workspaces/LABINFO-03-26-27/A141377
+echo "Teste de LI 2026/2027" > README.md
+cd ..
+pwd
+/workspaces/LABINFO-03-26-27
+history > cmdstask2.txt
+git add A141377/README.md cmdstask2.txt
+git commit -m "2.ª tarefa concluída"
+git push origin main
+
+cd ~/Documents/LI
+git clone https://github.com/Thael09/LABINFO-03-26-27.git
+cd LABINFO-03-26-27
+git add index.html
+git commit -m "3.ª tarefa concluída"
+git push origin main
+
+=== Comandos do Codespace ===
+    1  pwd
+    2  git add identificacao.txt
+    3  git commit -m "Tarefa 1: adiciona o ficheiro de identificação'
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+pwd
+git add identificacao.txt
+git add identificacao.txt
+    4  cd '/workspaces/LABINFO-03-26-27'
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    6  git push
+    7  mkdir A141377
+    8  cd A141377
+    9  pwd
+   10  echo "Teste de LI 2026/2027" > README.md
+   11  ls
+   12  cd ..
+   13  pwd
+   14  history > cmdstask2.txt
+   15  git add A141377.txt/README.md cmdstask2.txt
+   16  git add A141377/README.md cmdstask2.txt
+   17  git commit -m "2.ª tarefa concluída"
+   18  git push origin main
+   19  git add index.html
+   20  ls
+   21  git pull origin main
+   22  history > meusComandosCodespace.txt
+
+   --- Comandos do computador --- 
+    cd ~/Documents/LI
+   git clone https://github.com/Thael09/LABINFO-03-26-27.git
+   cd LABINFO-03-26-27
+   ls
+   git add index.html
+   git commit -m "3ª tarefa concluída"
+   git push origin main
+   cd LABINFO-03-26-27
+   cd ~/Documents/LI/LABINFO-03-26-27
+   git pull origin main
