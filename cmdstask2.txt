@@ -1,0 +1,18 @@
+    1  pwd
+    2  git add identificacao.txt
+    3  git commit -m "Tarefa 1: adiciona o ficheiro de identificação'
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+pwd
+git add identificacao.txt
+git add identificacao.txt
+    4  cd '/workspaces/LABINFO-03-26-27'
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    6  git push
+    7  mkdir A141377
+    8  cd A141377
+    9  pwd
+   10  echo "Teste de LI 2026/2027" > README.md
+   11  ls
+   12  cd ..
+   13  pwd
+   14  history > cmdstask2.txt
